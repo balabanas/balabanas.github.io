@@ -1,5 +1,4 @@
 # balabanas.github.io
-My Works
 
 ## Web Server's Log Analyzer
 
@@ -7,7 +6,7 @@ https://github.com/balabanas/web-server-log-parser
 
 ## Raynald's SPSS Tools
 
-https://spsstools.net
+[https://spsstools.net](https://spsstools.net)
 
 Some other web dev projects, currently online: https://predictivesolutions.es, https://predictivesolutions.lv
 
