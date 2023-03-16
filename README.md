@@ -4,6 +4,17 @@
 
 [https://github.com/balabanas/web-server-log-parser](https://github.com/balabanas/web-server-log-parser)
 
+## AWS
+[https://github.com/balabanas/ec2p1](https://github.com/balabanas/ec2p1)
+Demo project featuring CI/CD pipeline on GitHub > AWS:
+
+* AWS EC2
+* AWS S3
+* GitHub Actions, Vars, Secrets
+* Docker, docker-compose
+* nginx, gunicon
+* Django
+
 ## Raynald's SPSS Tools
 
 [https://spsstools.net](https://spsstools.net)
