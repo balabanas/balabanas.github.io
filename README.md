@@ -1,8 +1,17 @@
 # balabanas.github.io
 
 ## Web Server's Log Analyzer
-
 [https://github.com/balabanas/web-server-log-parser](https://github.com/balabanas/web-server-log-parser)
+
+## sensor-metrics-dashboard
+Vue/Django application to present data from sensors. [https://github.com/balabanas/sensor-metrics-dashboard](https://github.com/balabanas/sensor-metrics-dashboard)
+
+* Django as back-end API
+* pandas for data merging and manipulation
+* Vue.js 3 as frontend app
+* Bootstrap 5
+* Docker, docker-compose
+* nginx
 
 ## Useful Code Snippets
 
