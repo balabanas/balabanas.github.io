@@ -1,5 +1,16 @@
 # balabanas.github.io
 
+## Q&A Django-based project
+[https://github.com/balabanas/hasker](https://github.com/balabanas/hasker)
+Complete demo Django project with functionality to ask questions, provide answers, and vote for questions and answers.
+
+* Django, class-based & functional views
+* JS, jQuery
+* Bootstrap 5
+* Docker, docker-compose
+* nginx
+* unittests
+
 ## Web Server's Log Analyzer
 [https://github.com/balabanas/web-server-log-parser](https://github.com/balabanas/web-server-log-parser)
 
