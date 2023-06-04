@@ -1,10 +1,12 @@
 # balabanas.github.io
 
-## Q&A Django-based project
+## Q&A Django-based web project + API
 [https://github.com/balabanas/hasker](https://github.com/balabanas/hasker)
-Complete demo Django project with functionality to ask questions, provide answers, and vote for questions and answers.
+Complete demo Django project with functionality to ask questions, provide answers, and vote for questions and answers. Offers API for index, search question and answers, with API scheme (`localhost:8000/api/v1/swagger_ui`).
 
 * Django, class-based & functional views
+* Django REST Framework
+* swagger / OpenAPI
 * JS, jQuery
 * Bootstrap 5
 * Docker, docker-compose
